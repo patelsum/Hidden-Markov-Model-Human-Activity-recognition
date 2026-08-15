@@ -1,6 +1,6 @@
 # Project Summary: Human Activity Recognition With HMMs
 
-Status: In progress
+Status: Complete
 
 ## What The Project Does
 
