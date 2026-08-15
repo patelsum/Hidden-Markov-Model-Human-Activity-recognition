@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+ENV/
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local data and generated outputs
+Data/*.csv
+artifacts/*
+!artifacts/.gitkeep
+*.log
+
+# Local-only report containing inherited author metadata
+HMM for Human Activity Recognition - Project Report.pdf
+
+# Editors and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
